@@ -1,0 +1,7 @@
+[project]
+name = "day26natoalphabet"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "pandas>=3.1.1",
+]
